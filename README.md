@@ -1,12 +1,12 @@
-# Dracula for [Revolution irc](https://github.com/MCMrARM/revolution-irc)
+# Dracula for [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
 
-> A dark theme for [Revolution irc](https://github.com/MCMrARM/revolution-irc).
+> A dark theme for [Revolution IRC](https://github.com/MCMrARM/revolution-irc).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [here](https://draculatheme.com/revolution-irc).
+All instructions can be found at [draculatheme.com/revolution-irc](https://draculatheme.com/revolution-irc).
 
 ## Team
 

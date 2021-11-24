@@ -1,4 +1,4 @@
-### [Revolution irc](https://github.com/MCMrARM/revolution-irc)
+### [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
 
 #### Install using Git
 
@@ -12,4 +12,4 @@ Download using the [GitHub .zip download](https://github.com/dracula/revolution-
 
 #### Activating theme
 
-On Revolution irc go in Settings > Interface > Menu > Import theme and select _Dracula.irctheme_ .
+On Revolution IRC go in Settings > Interface > Menu > Import theme and select _Dracula.irctheme_ .
